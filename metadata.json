@@ -1,0 +1,6 @@
+{
+  "name": "Bản Sắc MAC - Quiz Chia Đội Mac Six",
+  "description": "Ứng dụng trắc nghiệm khám phá bản sắc cá nhân và tự động phân chia đội hình Mac Six cho sự kiện MAC Media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
